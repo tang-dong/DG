@@ -4,7 +4,7 @@
 
 ### GitHubDesktop
 
-![image-20230812154248558](C:\Users\tang3\Desktop\GIt 学习和使用教程.assets\image-20230812154248558.png)
+![image-20230812154248558](git学习/GIt 学习和使用教程.assets/image-20230812154248558.png)
 
 
 
